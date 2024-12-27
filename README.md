@@ -33,10 +33,10 @@ Dans notre cas, un oracle pourrait être :
 ## Diagrammes UML
 
 ### Diagramme de Classes
-![Diagramme de Classes](./path_to_your_image/Class_Diagram.png)
+[![Diagramme de Classes](https://github.com/aminebkk/alp_projet_m2/blob/master/Class_Dgrm.png)]
 
 ### Diagramme de Séquence
-![Diagramme de Séquence](./path_to_your_image/Sequence_Diagram.png)
+![Diagramme de Séquence][(https://github.com/aminebkk/alp_projet_m2/blob/master/sequence_dgrm.png)]
 
 ## Tests
 
