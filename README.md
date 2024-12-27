@@ -36,7 +36,7 @@ Dans notre cas, un oracle pourrait être :
 https://github.com/aminebkk/alp_projet_m2/blob/master/Class_Dgrm.png
 
 ### Diagramme de Séquence
-![Diagramme de Séquence][(https://github.com/aminebkk/alp_projet_m2/blob/master/sequence_dgrm.png)]
+https://github.com/aminebkk/alp_projet_m2/blob/master/sequence_dgrm.png
 
 ## Tests
 
